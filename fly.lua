@@ -1,3 +1,5 @@
+-- script made by Bred | https://github.com/BredzioCode/scripts-snippets/
+
 repeat wait()
     until game.Players.LocalPlayer and game.Players.LocalPlayer.Character and game.Players.LocalPlayer.Character:findFirstChild("Torso") and game.Players.LocalPlayer.Character:findFirstChild("Humanoid")
 local mouse = game.Players.LocalPlayer:GetMouse()
